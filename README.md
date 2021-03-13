@@ -5,10 +5,10 @@
 <p> Full stack software engineer with a background in Real Estate and Energy.  </p>
 
 ## 💬 Get in touch
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/teddy-kim-125393134/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/SinaMoghadassi/)
 <p>https://www.linkedin.com/in/SinaMoghadassi/</p>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](teddytkim@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge)](Sina.Moghadassi@gmail.com)
 <p>Sina.Moghadassi@gmail.com</p>
 
 ## ⌨ Technology & Tools
