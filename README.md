@@ -1,8 +1,8 @@
-<img width=100% src='https://imgur.com/IuU06SC' >
+<img width=100% src='Sina Moghadassi.png' >
 
 # Hello, there! <img width=30 src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif'>
 
-<p> I am a full stack software engineer with a background in Real Estate and Oil&Gas, passionate about the energy industry and building exciting new platforms for it.  </p>
+<p> Full stack software engineer with a background in Real Estate and Energy.  </p>
 
 ## 💬 Get in touch
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/teddy-kim-125393134/)
