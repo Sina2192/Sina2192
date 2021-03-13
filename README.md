@@ -1,4 +1,4 @@
-<img width=100% src='https://i.imgur.com/' >
+<img width=100% src='https://imgur.com/IuU06SC' >
 
 # Hello, there! <img width=30 src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif'>
 
