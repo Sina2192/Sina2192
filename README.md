@@ -1,4 +1,4 @@
-<img width=100% src='Sina Moghadassi.png' >
+
 
 # Hello, there! <img width=30 src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif'>
 
