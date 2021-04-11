@@ -2,7 +2,7 @@
 
 # Hello, there! <img width=30 src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif'>
 
-<p> Full stack software engineer with a background in Real Estate and Energy.  </p>
+<p> Feel free to reach out and connect, key tools listed below. </p>
 
 ## 💬 Get in touch
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/SinaMoghadassi/)
